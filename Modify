@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T08:29:10.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="fX2dTSSE9myeARqnbinb" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-28T08:31:00.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.41 Safari/537.36" etag="upD_FOW1vl-2hDM2Z10U" version="17.4.6" type="github">
   <diagram id="9EEPn0mCf8HS4QdeWvxL" name="Page-1">
-    <mxGraphModel dx="726" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="917" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,7 +92,38 @@
           <mxGeometry x="289" y="520" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XNTgdm4DFA74qPfT_u0v-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="578" y="530" width="24" height="70" as="geometry" />
+          <mxGeometry x="578" y="530" width="24" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="XNTgdm4DFA74qPfT_u0v-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="550" width="24" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XNTgdm4DFA74qPfT_u0v-43" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="XNTgdm4DFA74qPfT_u0v-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="602" y="539.39" as="sourcePoint" />
+            <mxPoint x="788" y="539.39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="540" />
+              <mxPoint x="660" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNTgdm4DFA74qPfT_u0v-44" value="업데이트()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="624" y="520" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XNTgdm4DFA74qPfT_u0v-46" value="" style="endArrow=open;html=1;rounded=0;strokeWidth=2;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="574" y="600" as="sourcePoint" />
+            <mxPoint x="169.9999999999999" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XNTgdm4DFA74qPfT_u0v-47" value="OK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="585" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XNTgdm4DFA74qPfT_u0v-48" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="11" y="176" width="816" height="528" as="geometry" />
+        </mxCell>
+        <mxCell id="XNTgdm4DFA74qPfT_u0v-49" value="Modify" style="shape=card;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="XNTgdm4DFA74qPfT_u0v-48">
+          <mxGeometry width="96" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
