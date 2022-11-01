@@ -1,19 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T06:24:18.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bU2yUzre1bwaqQmYlBwX" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:30:19.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-h-2SpOQPpuk3xzojHBo" version="20.5.1" type="github">
   <diagram id="6kdNBdGl0THipQ6VCbgm" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-1" value="방문자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="190" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-2" value=": 로그인" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7UeCLPo5KTqdVLKWtxlH-2" value=":Statistics" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="75" y="580" as="sourcePoint" />
-            <mxPoint x="74.5" y="270" as="targetPoint" />
+            <mxPoint x="80" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-5" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;startArrow=none;" parent="1" source="7UeCLPo5KTqdVLKWtxlH-17" edge="1">
@@ -31,7 +28,7 @@
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-8" value="회원 로그인(아이디, 비밀번호)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="320" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-9" value=": Main Page" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7UeCLPo5KTqdVLKWtxlH-9" value=":로그인" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="7UeCLPo5KTqdVLKWtxlH-11" target="7UeCLPo5KTqdVLKWtxlH-9" edge="1">
@@ -64,11 +61,8 @@
             <mxPoint x="490" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-16" value="조회(아이디, 비밀번호)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="334" y="338.5" width="140" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="488" y="340" width="24" height="50" as="geometry" />
+          <mxGeometry x="488" y="340" width="24" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" parent="1" target="7UeCLPo5KTqdVLKWtxlH-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -76,47 +70,31 @@
             <mxPoint x="500" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-21" value="" style="endArrow=open;html=1;rounded=0;strokeWidth=2;endFill=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="695" y="410" as="sourcePoint" />
-            <mxPoint x="305" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-22" value="Ok" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="449" y="390" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-37" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="512" y="371.67" as="sourcePoint" />
             <mxPoint x="698" y="372.17000000000013" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-38" value="방문예약(방문일시, 목적, 장소, &lt;br&gt;담당자)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="512" y="340" width="180" height="30" as="geometry" />
+        <mxCell id="7UeCLPo5KTqdVLKWtxlH-38" value="조회(방문장소, 방문자 수)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="522" y="340" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-39" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="698" y="360" width="24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7UeCLPo5KTqdVLKWtxlH-40" value="" style="endArrow=open;html=1;rounded=0;strokeWidth=2;endFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="277" y="429" as="sourcePoint" />
-            <mxPoint x="76.99999999999955" y="429" as="targetPoint" />
+            <mxPoint x="702" y="400" as="sourcePoint" />
+            <mxPoint x="520" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-41" value="예약 완료" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="142" y="410" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-54" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="6" y="120" width="816" height="500" as="geometry" />
-        </mxCell>
-        <mxCell id="7UeCLPo5KTqdVLKWtxlH-55" value="Reservation" style="shape=card;whiteSpace=wrap;html=1;direction=west;" parent="7UeCLPo5KTqdVLKWtxlH-54" vertex="1">
-          <mxGeometry width="96" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="AfkW-bMOuLsXTINX4lfZ-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="7UeCLPo5KTqdVLKWtxlH-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="704.5" y="460" as="sourcePoint" />
-            <mxPoint x="704" y="300" as="targetPoint" />
+        <mxCell id="wNVgSNr81ZWZYs6Qg60M-5" value="통계자료 조회" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=12;" vertex="1" connectable="0" parent="7UeCLPo5KTqdVLKWtxlH-40">
+          <mxGeometry x="0.0838" y="-3" relative="1" as="geometry">
+            <mxPoint x="-1" y="-7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wNVgSNr81ZWZYs6Qg60M-2" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="200" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
