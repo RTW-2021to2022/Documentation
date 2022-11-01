@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:32:27.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="sHQB0LuI9N4yJgSx2dkP" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:33:34.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="e1VmeFntHddvxCkgX1yi" version="20.5.1" type="github">
   <diagram id="6kdNBdGl0THipQ6VCbgm" name="Page-1">
     <mxGraphModel dx="692" dy="326" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
         <mxCell id="wNVgSNr81ZWZYs6Qg60M-2" value="관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="200" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wNVgSNr81ZWZYs6Qg60M-6" value="통계" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="wNVgSNr81ZWZYs6Qg60M-6" value="Statistics" style="shape=umlFrame;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="760" height="360" as="geometry" />
         </mxCell>
       </root>
